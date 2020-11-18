@@ -6761,3 +6761,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.18-08.40.26:394][ 31]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.18-08.40.26:394][ 31]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.11.18-08.40.26:394][ 31]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.18-10.56.22:943][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2020.11.18-10.56.32:548][663]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.11.18-10.56.34:134][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Walls_01)
+[2020.11.18-10.57.10:126][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.18-10.57.37:099][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.11.18-10.57.37:179][543]LogSavePackage: Moving '../../../../unrealhorror-01/UnrealHorrorGame/NewHorroGame/Saved/FirstPersonExampleMap_Auto288EFA79A4A68A2AE7099E99C6857C14A.tmp' to '../../../../unrealhorror-01/UnrealHorrorGame/NewHorroGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.11.18-10.57.37:181][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.096
+[2020.11.18-10.57.37:181][543]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.096
+[2020.11.18-11.25.16:438][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Walls_02)
+[2020.11.18-11.25.57:514][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Walls_01)
+[2020.11.18-11.25.58:186][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Walls_01)
+[2020.11.18-11.25.58:584][836]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.11.18-11.25.58:871][864]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
