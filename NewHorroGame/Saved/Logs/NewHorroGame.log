@@ -1029,3 +1029,84 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.21-11.02.01:772][170]LogSavePackage: Moving '../../../../unrealhorror-01/UnrealHorrorGame/NewHorroGame/Saved/FirstPersonExampleMap_Auto12788E57E421805454EF104B1A64393EB.tmp' to '../../../../unrealhorror-01/UnrealHorrorGame/NewHorroGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
 [2020.11.21-11.02.01:832][170]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.973
 [2020.11.21-11.02.01:832][170]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.973
+[2020.11.21-11.02.50:621][ 55]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.066s
+[2020.11.21-11.02.50:621][ 55]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.21-11.02.50:632][ 55]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.11.21-11.02.50:632][ 55]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.21-11.02.50:632][ 55]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2020.11.21-11.02.50:632][ 55]LogVolumetricLightmapImport:          1: 5.9% covering 6.3% of volume
+[2020.11.21-11.02.50:632][ 55]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2020.11.21-11.02.50:632][ 55]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.21-11.02.50:632][ 55]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 68 bricks 	 100.0% (Persistent Level)
+[2020.11.21-11.02.53:305][ 55]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.11.21-11.02.53:305][ 55]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.11.21-11.02.53:305][ 55]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.11.21-11.02.53:305][ 55]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.11.21-11.02.53:305][ 55]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.11.21-11.02.53:305][ 55]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.11.21-11.02.53:305][ 55]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2020.11.21-11.02.53:305][ 55]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2020.11.21-11.02.53:305][ 55]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2020.11.21-11.02.53:306][ 55]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2020.11.21-11.02.53:306][ 55]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2020.11.21-11.02.53:306][ 55]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2020.11.21-11.02.53:306][ 55]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2020.11.21-11.02.53:306][ 55]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2020.11.21-11.02.53:306][ 55]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2020.11.21-11.02.53:506][ 55]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 32X32)
+[2020.11.21-11.02.53:506][ 55]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X128)
+[2020.11.21-11.02.53:733][ 55]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.11.21-11.02.53:733][ 55]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.11.21-11.02.53:733][ 55]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.11.21-11.02.53:733][ 55]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.11.21-11.02.53:733][ 55]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.11.21-11.02.53:733][ 55]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2020.11.21-11.02.53:733][ 55]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2020.11.21-11.02.53:911][ 55]Lightmass on DESKTOP-H6I8SR5: 1:51 min total, 461 ms importing, 74 ms setup, 6.03 sec photons, 1:44 min processing, 0 ms extra exporting [145/145 mappings]. Threads: 19:05 min total, 2:32 min processing.
+[2020.11.21-11.02.54:026][ 55]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 145 meshes in 10 LightmapResourceClusters (14.5 Meshes per cluster).
+[2020.11.21-11.02.54:052][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_FrontDoor.M_FrontDoor needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:055][ 55]LogMaterial: Display: Missing cached shader map for material M_FrontDoor, compiling. 
+[2020.11.21-11.02.54:172][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.11.21-11.02.54:172][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.11.21-11.02.54:172][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.11.21-11.02.54:172][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.11.21-11.02.54:172][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.11.21-11.02.54:172][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.21-11.02.54:178][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Glass_02.M_Glass_02 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:180][ 55]LogMaterial: Display: Missing cached shader map for material M_Glass_02, compiling. 
+[2020.11.21-11.02.54:198][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Trims_01.M_Trims_01 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:199][ 55]LogMaterial: Display: Missing cached shader map for material M_Trims_01, compiling. 
+[2020.11.21-11.02.54:219][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Curtains.M_Curtains needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:221][ 55]LogMaterial: Display: Missing cached shader map for material M_Curtains, compiling. 
+[2020.11.21-11.02.54:239][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Interior_01.M_Interior_01 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:241][ 55]LogMaterial: Display: Missing cached shader map for material M_Interior_01, compiling. 
+[2020.11.21-11.02.54:264][ 55]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 72
+[2020.11.21-11.02.54:264][ 55]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 62
+[2020.11.21-11.02.54:265][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Floor_02.M_Floor_02 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:267][ 55]LogMaterial: Display: Missing cached shader map for material M_Floor_02, compiling. 
+[2020.11.21-11.02.54:289][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Floor_01.M_Floor_01 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:290][ 55]LogMaterial: Display: Missing cached shader map for material M_Floor_01, compiling. 
+[2020.11.21-11.02.54:312][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Floor_03.M_Floor_03 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:314][ 55]LogMaterial: Display: Missing cached shader map for material M_Floor_03, compiling. 
+[2020.11.21-11.02.54:337][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Trapdoor.M_Trapdoor needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:339][ 55]LogMaterial: Display: Missing cached shader map for material M_Trapdoor, compiling. 
+[2020.11.21-11.02.54:362][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Windows.M_Windows needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:363][ 55]LogMaterial: Display: Missing cached shader map for material M_Windows, compiling. 
+[2020.11.21-11.02.54:385][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Exterior_Addons.M_Exterior_Addons needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:387][ 55]LogMaterial: Display: Missing cached shader map for material M_Exterior_Addons, compiling. 
+[2020.11.21-11.02.54:409][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Floor_04.M_Floor_04 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:411][ 55]LogMaterial: Display: Missing cached shader map for material M_Floor_04, compiling. 
+[2020.11.21-11.02.54:435][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Roof_01.M_Roof_01 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:437][ 55]LogMaterial: Display: Missing cached shader map for material M_Roof_01, compiling. 
+[2020.11.21-11.02.54:461][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_Glass_01.M_Glass_01 needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:463][ 55]LogMaterial: Display: Missing cached shader map for material M_Glass_01, compiling. 
+[2020.11.21-11.02.54:483][ 55]LogMaterial: Display: Material /Game/OldBrickHouse/Materials/M_WindowProtector.M_WindowProtector needed to have new flag set bUsedWithStaticLighting !
+[2020.11.21-11.02.54:485][ 55]LogMaterial: Display: Missing cached shader map for material M_WindowProtector, compiling. 
+[2020.11.21-11.02.54:521][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.11.21-11.02.54:570][ 55]LogStaticLightingSystem: Illumination: 58.3 sec (2.12 sec encoding lightmaps, 428 ms encoding shadowmaps)
+[2020.11.21-11.02.54:570][ 55]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2020.11.21-11.02.54:571][ 55]LogStaticLightingSystem: Shadowmap texture memory: 9.5 MB (9.5 MB streaming, 0.0 MB non-streaming), 9 textures
+[2020.11.21-11.02.54:887][ 55]DumpUnbuiltLightIteractions
+[2020.11.21-11.02.54:887][ 55]Lights with unbuilt interactions: 0
+[2020.11.21-11.02.54:888][ 55]
+[2020.11.21-11.02.54:888][ 55]Primitives with unbuilt interactions: 0
