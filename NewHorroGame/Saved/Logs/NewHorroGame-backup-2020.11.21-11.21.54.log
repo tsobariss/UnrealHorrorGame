@@ -1,0 +1,1005 @@
+﻿Log file open, 11/21/20 13:18:11
+LogInit: Display: Running engine for game: NewHorroGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.236453
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Engine.ini]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Engine.ini]
+[2020.11.21-11.18.12:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Engine.ini]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Engine.ini]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.21-11.18.12:406][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.21-11.18.12:407][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.21-11.18.12:407][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.21-11.18.12:407][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.21-11.18.12:407][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.21-11.18.12:407][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.21-11.18.12:407][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.21-11.18.12:407][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.21-11.18.12:407][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.21-11.18.12:407][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Engine.ini]
+[2020.11.21-11.18.12:407][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Engine.ini]
+[2020.11.21-11.18.12:409][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.21-11.18.12:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.21-11.18.12:410][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.21-11.18.12:411][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.21-11.18.12:412][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.21-11.18.12:412][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.21-11.18.12:412][  0]LogHAL: Display: Platform has ~ 16 GB [17109499904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.21-11.18.12:412][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.21-11.18.12:412][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.21-11.18.12:412][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.21-11.18.12:413][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.21-11.18.12:414][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.21-11.18.12:414][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.21-11.18.12:415][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.21-11.18.12:415][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.21-11.18.12:415][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Config/Windows/Engine.ini]
+[2020.11.21-11.18.12:415][  0]LogInit: Computer: DESKTOP-5R44VM5
+[2020.11.21-11.18.12:415][  0]LogInit: User: mescr
+[2020.11.21-11.18.12:415][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.21-11.18.12:415][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2020.11.21-11.18.12:415][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.11.21-11.18.12:415][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.21-11.18.12:415][  0]LogMemory: Process Physical Memory: 116.21 MB used, 116.21 MB peak
+[2020.11.21-11.18.12:415][  0]LogMemory: Process Virtual Memory: 99.54 MB used, 99.54 MB peak
+[2020.11.21-11.18.12:415][  0]LogMemory: Physical Memory: 6343.34 MB used,  9973.55 MB free, 16316.89 MB total
+[2020.11.21-11.18.12:415][  0]LogMemory: Virtual Memory: 5196.21 MB used,  134212528.00 MB free, 134217728.00 MB total
+[2020.11.21-11.18.12:422][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.21-11.18.12:482][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.21-11.18.12:485][  0]LogInit: Using OS detected language (en-GB).
+[2020.11.21-11.18.12:485][  0]LogInit: Using OS detected locale (en-US).
+[2020.11.21-11.18.12:493][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.11.21-11.18.12:747][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.21-11.18.12:792][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.21-11.18.12:792][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.21-11.18.13:043][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.11.21-11.18.13:043][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.21-11.18.13:043][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.21-11.18.13:043][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.21-11.18.13:132][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.11.21-11.18.13:132][  0]LogD3D11RHI:       2987/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.11.21-11.18.13:134][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.21-11.18.13:134][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.21-11.18.13:134][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.21-11.18.13:145][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.21-11.18.13:145][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.21-11.18.13:145][  0]LogWindows: EnumDisplayDevices:
+[2020.11.21-11.18.13:145][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2020.11.21-11.18.13:146][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.11.21-11.18.13:146][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.11.21-11.18.13:147][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.11.21-11.18.13:147][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.21-11.18.13:147][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.11.21-11.18.13:147][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.11.21-11.18.13:147][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.11.21-11.18.13:147][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2020.11.21-11.18.13:204][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.21-11.18.13:204][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.21-11.18.13:204][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.21-11.18.13:244][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.21-11.18.13:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.21-11.18.13:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.21-11.18.13:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.21-11.18.13:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.21-11.18.13:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.21-11.18.13:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.21-11.18.13:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.21-11.18.13:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.21-11.18.13:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.21-11.18.13:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.21-11.18.13:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.21-11.18.13:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.21-11.18.13:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.21-11.18.13:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.21-11.18.13:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.21-11.18.13:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.21-11.18.13:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.21-11.18.13:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.21-11.18.13:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.21-11.18.13:919][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.21-11.18.13:929][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.21-11.18.14:010][  0]LogShaderCompilers: Guid format shader working directory is -52 characters bigger than the processId version (../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Intermediate/Shaders/WorkingDirectory/1600/).
+[2020.11.21-11.18.14:010][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mescr/AppData/Local/Temp/UnrealShaderWorkingDir/C8459B404AAE1F3217E40E835307AB32/'.
+[2020.11.21-11.18.14:011][  0]LogXGEController: Cleaning working directory: C:/Users/mescr/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.21-11.18.14:011][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.21-11.18.14:011][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.21-11.18.14:011][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.21-11.18.15:004][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.21-11.18.15:077][  0]LogDerivedDataCache: Loaded boot cache 0.07s 79MB C:/Users/mescr/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.21-11.18.15:077][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mescr/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.21-11.18.15:077][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.21-11.18.15:077][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.21-11.18.15:077][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.21-11.18.15:077][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.21-11.18.15:090][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.21-11.18.15:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.21-11.18.15:090][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.21-11.18.15:090][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mescr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.21-11.18.15:090][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.21-11.18.15:090][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.21-11.18.15:159][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.21-11.18.15:159][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.21-11.18.15:193][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2020.11.21-11.18.15:549][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.21-11.18.15:719][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.21-11.18.15:719][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.21-11.18.15:719][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.21-11.18.15:719][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.21-11.18.15:719][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.21-11.18.15:743][  0]LogNetVersion: NewHorroGame 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3480779267)
+[2020.11.21-11.18.16:338][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001DE861B82C0), frame # 0
+[2020.11.21-11.18.16:338][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DE8A25CCC0), frame # 0
+[2020.11.21-11.18.16:340][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DE86151E00), frame # 0
+[2020.11.21-11.18.16:428][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.079241 seconds
+[2020.11.21-11.18.16:434][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.21-11.18.16:434][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.21-11.18.16:434][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.21-11.18.16:914][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.21-11.18.16:921][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.21-11.18.17:033][  0]SourceControl: Source control is disabled
+[2020.11.21-11.18.17:033][  0]SourceControl: Source control is disabled
+[2020.11.21-11.18.17:039][  0]SourceControl: Source control is disabled
+[2020.11.21-11.18.17:044][  0]SourceControl: Source control is disabled
+[2020.11.21-11.18.17:053][  0]SourceControl: Source control is disabled
+[2020.11.21-11.18.17:381][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.21-11.18.17:407][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.21-11.18.17:407][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.21-11.18.17:474][  0]LogOcInput: OculusInput pre-init called
+[2020.11.21-11.18.17:785][  0]LogEngine: Initializing Engine...
+[2020.11.21-11.18.17:850][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.11.21-11.18.17:850][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.21-11.18.17:852][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.21-11.18.18:008][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.21-11.18.18:022][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.21-11.18.18:022][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DE8CEC6600), frame # 0
+[2020.11.21-11.18.18:022][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DE8CEBFB00), frame # 0
+[2020.11.21-11.18.18:046][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.21-11.18.18:046][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.21-11.18.18:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.21-11.18.18:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.21-11.18.18:046][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.21-11.18.18:046][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.21-11.18.18:046][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.21-11.18.18:046][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.21-11.18.18:046][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.21-11.18.18:046][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.21-11.18.18:064][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.21-11.18.18:064][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.21-11.18.18:127][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.11.21-11.18.18:131][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.21-11.18.18:134][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.21-11.18.18:134][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.21-11.18.18:135][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.21-11.18.18:136][  0]LogInit: FAudioDevice initialized.
+[2020.11.21-11.18.18:137][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.21-11.18.18:297][  0]LogDerivedDataCache: Saved boot cache 0.16s 79MB C:/Users/mescr/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.21-11.18.18:302][  0]LogInit: Texture streaming: Enabled
+[2020.11.21-11.18.18:320][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.21-11.18.18:321][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.21-11.18.18:322][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.21-11.18.18:394][  0]LogInit: Transaction tracking system initialized
+[2020.11.21-11.18.18:422][  0]BlueprintLog: New page: Editor Load
+[2020.11.21-11.18.18:510][  0]LocalizationService: Localization service is disabled
+[2020.11.21-11.18.18:741][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.21-11.18.18:741][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.21-11.18.18:807][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/' took 0.01s
+[2020.11.21-11.18.19:189][  0]SourceControl: Source control is disabled
+[2020.11.21-11.18.19:189][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.034
+[2020.11.21-11.18.19:190][  0]LightingResults: New page: Lighting Build
+[2020.11.21-11.18.19:191][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.21-11.18.19:191][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.21-11.18.19:191][  0]MapCheck: New page: Map Check
+[2020.11.21-11.18.19:191][  0]LightingResults: New page: Lighting Build
+[2020.11.21-11.18.19:204][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DE8CEC6600), frame # 0
+[2020.11.21-11.18.19:204][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DE8CEBFB00), frame # 0
+[2020.11.21-11.18.19:205][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.21-11.18.19:401][  0]LogLinker: Warning: While loading '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:401][  0]LogLinker: Warning: While loading '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:404][  0]LogLinker: Warning: While loading '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:404][  0]LogLinker: Warning: While loading '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:538][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:538][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:538][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:539][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:581][  0]LogLinker: Warning: While loading '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:581][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2020.11.21-11.18.19:581][  0]LogLinker: Warning: While loading '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.11.21-11.18.19:581][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2020.11.21-11.18.19:691][  0]LogStaticMesh: Building static mesh House_Attic_Roof...
+[2020.11.21-11.18.19:699][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Attic_Roof.House_Attic_Roof
+[2020.11.21-11.18.19:700][  0]LogStaticMesh: Building static mesh House_Attic_Roof_Structure...
+[2020.11.21-11.18.19:746][  0]LogStaticMesh: Built static mesh [0.05s] /Game/OldBrickHouse/Fbx/House_Attic_Roof_Structure.House_Attic_Roof_Structure
+[2020.11.21-11.18.19:750][  0]LogStaticMesh: Building static mesh House_Backdoor...
+[2020.11.21-11.18.19:772][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Backdoor.House_Backdoor
+[2020.11.21-11.18.19:775][  0]LogStaticMesh: Building static mesh House_Backdoor_Frame...
+[2020.11.21-11.18.19:783][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Backdoor_Frame.House_Backdoor_Frame
+[2020.11.21-11.18.19:784][  0]LogStaticMesh: Building static mesh House_Backdoor_Handle...
+[2020.11.21-11.18.19:803][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Backdoor_Handle.House_Backdoor_Handle
+[2020.11.21-11.18.19:805][  0]LogStaticMesh: Building static mesh House_Brick_Decor...
+[2020.11.21-11.18.19:820][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Brick_Decor.House_Brick_Decor
+[2020.11.21-11.18.19:822][  0]LogStaticMesh: Building static mesh House_Ceiling_02...
+[2020.11.21-11.18.19:827][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Ceiling_02.House_Ceiling_02
+[2020.11.21-11.18.19:828][  0]LogStaticMesh: Building static mesh House_ceiling...
+[2020.11.21-11.18.19:835][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_ceiling.House_ceiling
+[2020.11.21-11.18.19:836][  0]LogStaticMesh: Building static mesh House_COL_Foundation...
+[2020.11.21-11.18.19:847][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_COL_Foundation.House_COL_Foundation
+[2020.11.21-11.18.19:848][  0]LogStaticMesh: Building static mesh House_Crown_Molding_Ceiling_01...
+[2020.11.21-11.18.19:870][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Crown_Molding_Ceiling_01.House_Crown_Molding_Ceiling_01
+[2020.11.21-11.18.19:871][  0]LogStaticMesh: Building static mesh House_Crown_Molding_Ceiling_02...
+[2020.11.21-11.18.19:884][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Crown_Molding_Ceiling_02.House_Crown_Molding_Ceiling_02
+[2020.11.21-11.18.19:886][  0]LogStaticMesh: Building static mesh House_Curtains_002...
+[2020.11.21-11.18.19:909][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Curtains_002.House_Curtains_002
+[2020.11.21-11.18.19:912][  0]LogStaticMesh: Building static mesh House_Curtains_003...
+[2020.11.21-11.18.19:937][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Curtains_003.House_Curtains_003
+[2020.11.21-11.18.19:941][  0]LogStaticMesh: Building static mesh House_Curtains_004...
+[2020.11.21-11.18.19:964][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Curtains_004.House_Curtains_004
+[2020.11.21-11.18.19:967][  0]LogStaticMesh: Building static mesh House_Curtains_005...
+[2020.11.21-11.18.19:991][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Curtains_005.House_Curtains_005
+[2020.11.21-11.18.19:994][  0]LogStaticMesh: Building static mesh House_Curtains_006...
+[2020.11.21-11.18.20:017][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Curtains_006.House_Curtains_006
+[2020.11.21-11.18.20:021][  0]LogStaticMesh: Building static mesh House_Curtains_007...
+[2020.11.21-11.18.20:046][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Curtains_007.House_Curtains_007
+[2020.11.21-11.18.20:050][  0]LogStaticMesh: Building static mesh House_Curtains_008...
+[2020.11.21-11.18.20:072][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Curtains_008.House_Curtains_008
+[2020.11.21-11.18.20:076][  0]LogStaticMesh: Building static mesh House_Curtains_009...
+[2020.11.21-11.18.20:103][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Curtains_009.House_Curtains_009
+[2020.11.21-11.18.20:107][  0]LogStaticMesh: Building static mesh House_Curtains_010...
+[2020.11.21-11.18.20:135][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Curtains_010.House_Curtains_010
+[2020.11.21-11.18.20:140][  0]LogStaticMesh: Building static mesh House_Curtains_011...
+[2020.11.21-11.18.20:166][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Curtains_011.House_Curtains_011
+[2020.11.21-11.18.20:171][  0]LogStaticMesh: Building static mesh House_Curtains_01...
+[2020.11.21-11.18.20:195][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Curtains_01.House_Curtains_01
+[2020.11.21-11.18.20:198][  0]LogStaticMesh: Building static mesh House_Door_Front...
+[2020.11.21-11.18.20:220][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Door_Front.House_Door_Front
+[2020.11.21-11.18.20:223][  0]LogStaticMesh: Building static mesh House_Door_Front_Handles...
+[2020.11.21-11.18.20:239][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Door_Front_Handles.House_Door_Front_Handles
+[2020.11.21-11.18.20:242][  0]LogStaticMesh: Building static mesh House_Door_Interior_02...
+[2020.11.21-11.18.20:254][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_02.House_Door_Interior_02
+[2020.11.21-11.18.20:256][  0]LogStaticMesh: Building static mesh House_Door_Interior_02_Handle...
+[2020.11.21-11.18.20:266][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_02_Handle.House_Door_Interior_02_Handle
+[2020.11.21-11.18.20:268][  0]LogStaticMesh: Building static mesh House_Door_Interior_03...
+[2020.11.21-11.18.20:280][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_03.House_Door_Interior_03
+[2020.11.21-11.18.20:282][  0]LogStaticMesh: Building static mesh House_Door_Interior_03_Handle...
+[2020.11.21-11.18.20:295][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_03_Handle.House_Door_Interior_03_Handle
+[2020.11.21-11.18.20:296][  0]LogStaticMesh: Building static mesh House_Door_Interior_04...
+[2020.11.21-11.18.20:308][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_04.House_Door_Interior_04
+[2020.11.21-11.18.20:310][  0]LogStaticMesh: Building static mesh House_Door_Interior_04_Handle...
+[2020.11.21-11.18.20:322][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_04_Handle.House_Door_Interior_04_Handle
+[2020.11.21-11.18.20:323][  0]LogStaticMesh: Building static mesh House_Door_Interior_05...
+[2020.11.21-11.18.20:337][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_05.House_Door_Interior_05
+[2020.11.21-11.18.20:339][  0]LogStaticMesh: Building static mesh House_Door_Interior_05_Handle...
+[2020.11.21-11.18.20:349][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_05_Handle.House_Door_Interior_05_Handle
+[2020.11.21-11.18.20:351][  0]LogStaticMesh: Building static mesh House_Door_Interior_06...
+[2020.11.21-11.18.20:362][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_06.House_Door_Interior_06
+[2020.11.21-11.18.20:364][  0]LogStaticMesh: Building static mesh House_Door_Interior_06_Handle...
+[2020.11.21-11.18.20:375][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_06_Handle.House_Door_Interior_06_Handle
+[2020.11.21-11.18.20:377][  0]LogStaticMesh: Building static mesh House_Door_Interior_07...
+[2020.11.21-11.18.20:391][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_07.House_Door_Interior_07
+[2020.11.21-11.18.20:393][  0]LogStaticMesh: Building static mesh House_Door_Interior_07_Handle...
+[2020.11.21-11.18.20:404][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_07_Handle.House_Door_Interior_07_Handle
+[2020.11.21-11.18.20:405][  0]LogStaticMesh: Building static mesh House_Door_Interior...
+[2020.11.21-11.18.20:418][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior.House_Door_Interior
+[2020.11.21-11.18.20:420][  0]LogStaticMesh: Building static mesh House_Door_Interior_Handle...
+[2020.11.21-11.18.20:431][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Door_Interior_Handle.House_Door_Interior_Handle
+[2020.11.21-11.18.20:433][  0]LogStaticMesh: Building static mesh House_Floor_01...
+[2020.11.21-11.18.20:437][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Floor_01.House_Floor_01
+[2020.11.21-11.18.20:439][  0]LogStaticMesh: Building static mesh House_Floor_02...
+[2020.11.21-11.18.20:444][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Floor_02.House_Floor_02
+[2020.11.21-11.18.20:445][  0]LogStaticMesh: Building static mesh House_Floor_03...
+[2020.11.21-11.18.20:446][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Floor_03.House_Floor_03
+[2020.11.21-11.18.20:447][  0]LogStaticMesh: Building static mesh House_Foundation...
+[2020.11.21-11.18.20:462][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Foundation.House_Foundation
+[2020.11.21-11.18.20:464][  0]LogStaticMesh: Building static mesh House_Frame_Door_Front...
+[2020.11.21-11.18.20:496][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Frame_Door_Front.House_Frame_Door_Front
+[2020.11.21-11.18.20:500][  0]LogStaticMesh: Building static mesh House_Frame_Door_Interior_02...
+[2020.11.21-11.18.20:506][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Frame_Door_Interior_02.House_Frame_Door_Interior_02
+[2020.11.21-11.18.20:507][  0]LogStaticMesh: Building static mesh House_Frame_Door_Interior_03...
+[2020.11.21-11.18.20:512][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Frame_Door_Interior_03.House_Frame_Door_Interior_03
+[2020.11.21-11.18.20:513][  0]LogStaticMesh: Building static mesh House_Frame_Door_Interior_04...
+[2020.11.21-11.18.20:520][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Frame_Door_Interior_04.House_Frame_Door_Interior_04
+[2020.11.21-11.18.20:521][  0]LogStaticMesh: Building static mesh House_Frame_Door_Interior_05...
+[2020.11.21-11.18.20:526][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Frame_Door_Interior_05.House_Frame_Door_Interior_05
+[2020.11.21-11.18.20:527][  0]LogStaticMesh: Building static mesh House_Frame_Door_Interior_06...
+[2020.11.21-11.18.20:533][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Frame_Door_Interior_06.House_Frame_Door_Interior_06
+[2020.11.21-11.18.20:534][  0]LogStaticMesh: Building static mesh House_Frame_Door_Interior_07...
+[2020.11.21-11.18.20:540][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Frame_Door_Interior_07.House_Frame_Door_Interior_07
+[2020.11.21-11.18.20:541][  0]LogStaticMesh: Building static mesh House_Frame_Door_Interior...
+[2020.11.21-11.18.20:546][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Frame_Door_Interior.House_Frame_Door_Interior
+[2020.11.21-11.18.20:547][  0]LogStaticMesh: Building static mesh House_Frame_Trapdoor...
+[2020.11.21-11.18.20:554][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Frame_Trapdoor.House_Frame_Trapdoor
+[2020.11.21-11.18.20:556][  0]LogStaticMesh: Building static mesh House_Frames_Window_Attic...
+[2020.11.21-11.18.20:563][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Frames_Window_Attic.House_Frames_Window_Attic
+[2020.11.21-11.18.20:564][  0]LogStaticMesh: Building static mesh House_Gutter_01...
+[2020.11.21-11.18.20:590][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Gutter_01.House_Gutter_01
+[2020.11.21-11.18.20:593][  0]LogStaticMesh: Building static mesh House_Gutter_02...
+[2020.11.21-11.18.20:620][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Gutter_02.House_Gutter_02
+[2020.11.21-11.18.20:624][  0]LogStaticMesh: Building static mesh House_Gutter_03...
+[2020.11.21-11.18.20:666][  0]LogStaticMesh: Built static mesh [0.04s] /Game/OldBrickHouse/Fbx/House_Gutter_03.House_Gutter_03
+[2020.11.21-11.18.20:671][  0]LogStaticMesh: Building static mesh House_Gutter_04...
+[2020.11.21-11.18.20:703][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Gutter_04.House_Gutter_04
+[2020.11.21-11.18.20:707][  0]LogStaticMesh: Building static mesh House_Gutter_05...
+[2020.11.21-11.18.20:740][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Gutter_05.House_Gutter_05
+[2020.11.21-11.18.20:745][  0]LogStaticMesh: Building static mesh House_Hinges_Lower_01...
+[2020.11.21-11.18.20:750][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Hinges_Lower_01.House_Hinges_Lower_01
+[2020.11.21-11.18.20:751][  0]LogStaticMesh: Building static mesh House_Hinges_Lower_02...
+[2020.11.21-11.18.20:756][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Hinges_Lower_02.House_Hinges_Lower_02
+[2020.11.21-11.18.20:757][  0]LogStaticMesh: Building static mesh House_Hinges_Upper_01...
+[2020.11.21-11.18.20:763][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Hinges_Upper_01.House_Hinges_Upper_01
+[2020.11.21-11.18.20:764][  0]LogStaticMesh: Building static mesh House_Hinges_Upper_02...
+[2020.11.21-11.18.20:771][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Hinges_Upper_02.House_Hinges_Upper_02
+[2020.11.21-11.18.20:772][  0]LogStaticMesh: Building static mesh House_Ladder_Lower...
+[2020.11.21-11.18.20:780][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Ladder_Lower.House_Ladder_Lower
+[2020.11.21-11.18.20:781][  0]LogStaticMesh: Building static mesh House_Porch...
+[2020.11.21-11.18.20:790][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Porch.House_Porch
+[2020.11.21-11.18.20:791][  0]LogStaticMesh: Building static mesh House_roof_01...
+[2020.11.21-11.18.20:795][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_roof_01.House_roof_01
+[2020.11.21-11.18.20:796][  0]LogStaticMesh: Building static mesh House_roof_02...
+[2020.11.21-11.18.20:805][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_roof_02.House_roof_02
+[2020.11.21-11.18.20:806][  0]LogStaticMesh: Building static mesh House_roof_03...
+[2020.11.21-11.18.20:815][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_roof_03.House_roof_03
+[2020.11.21-11.18.20:815][  0]LogStaticMesh: Building static mesh House_roof...
+[2020.11.21-11.18.20:825][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_roof.House_roof
+[2020.11.21-11.18.20:826][  0]LogStaticMesh: Building static mesh House_Roof_Edge_Protector...
+[2020.11.21-11.18.20:838][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Roof_Edge_Protector.House_Roof_Edge_Protector
+[2020.11.21-11.18.20:839][  0]LogStaticMesh: Building static mesh House_Sills...
+[2020.11.21-11.18.20:844][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Sills.House_Sills
+[2020.11.21-11.18.20:844][  0]LogStaticMesh: Building static mesh House_Stair_Rods...
+[2020.11.21-11.18.20:909][  0]LogStaticMesh: Built static mesh [0.06s] /Game/OldBrickHouse/Fbx/House_Stair_Rods.House_Stair_Rods
+[2020.11.21-11.18.20:916][  0]LogStaticMesh: Building static mesh House_Stairs_Frame...
+[2020.11.21-11.18.20:919][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Stairs_Frame.House_Stairs_Frame
+[2020.11.21-11.18.20:920][  0]LogStaticMesh: Building static mesh House_Stairs_Handrail...
+[2020.11.21-11.18.20:930][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Stairs_Handrail.House_Stairs_Handrail
+[2020.11.21-11.18.20:932][  0]LogStaticMesh: Building static mesh House_Stairs_Pillars...
+[2020.11.21-11.18.21:379][  0]LogStaticMesh: Built static mesh [0.45s] /Game/OldBrickHouse/Fbx/House_Stairs_Pillars.House_Stairs_Pillars
+[2020.11.21-11.18.21:451][  0]LogStaticMesh: Building static mesh House_Stairs_Steps...
+[2020.11.21-11.18.21:483][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Stairs_Steps.House_Stairs_Steps
+[2020.11.21-11.18.21:488][  0]LogStaticMesh: Building static mesh House_Trapdoor...
+[2020.11.21-11.18.21:511][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Trapdoor.House_Trapdoor
+[2020.11.21-11.18.21:514][  0]LogStaticMesh: Building static mesh House_Trim_Floor_01...
+[2020.11.21-11.18.21:526][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Trim_Floor_01.House_Trim_Floor_01
+[2020.11.21-11.18.21:527][  0]LogStaticMesh: Building static mesh House_Trim_Floor_02...
+[2020.11.21-11.18.21:538][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Trim_Floor_02.House_Trim_Floor_02
+[2020.11.21-11.18.21:541][  0]LogStaticMesh: Building static mesh House_Window_01...
+[2020.11.21-11.18.21:564][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Window_01.House_Window_01
+[2020.11.21-11.18.21:566][  0]LogStaticMesh: Building static mesh House_Window_02...
+[2020.11.21-11.18.21:585][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Window_02.House_Window_02
+[2020.11.21-11.18.21:586][  0]LogStaticMesh: Building static mesh House_Window_03...
+[2020.11.21-11.18.21:595][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Window_03.House_Window_03
+[2020.11.21-11.18.21:596][  0]LogStaticMesh: Building static mesh House_Window_04...
+[2020.11.21-11.18.21:603][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Window_04.House_Window_04
+[2020.11.21-11.18.21:604][  0]LogStaticMesh: Building static mesh House_Window_05...
+[2020.11.21-11.18.21:631][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Window_05.House_Window_05
+[2020.11.21-11.18.21:634][  0]LogStaticMesh: Building static mesh House_Window_06...
+[2020.11.21-11.18.21:650][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Window_06.House_Window_06
+[2020.11.21-11.18.21:653][  0]LogStaticMesh: Building static mesh House_Window_07...
+[2020.11.21-11.18.21:667][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Window_07.House_Window_07
+[2020.11.21-11.18.21:668][  0]LogStaticMesh: Building static mesh House_Window_08...
+[2020.11.21-11.18.21:695][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Window_08.House_Window_08
+[2020.11.21-11.18.21:697][  0]LogStaticMesh: Building static mesh House_Window_09...
+[2020.11.21-11.18.21:704][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Window_09.House_Window_09
+[2020.11.21-11.18.21:705][  0]LogStaticMesh: Building static mesh House_Window_10...
+[2020.11.21-11.18.21:733][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Window_10.House_Window_10
+[2020.11.21-11.18.21:735][  0]LogStaticMesh: Building static mesh House_Window_11...
+[2020.11.21-11.18.21:759][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Window_11.House_Window_11
+[2020.11.21-11.18.21:761][  0]LogStaticMesh: Building static mesh House_Window_12...
+[2020.11.21-11.18.21:772][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Window_12.House_Window_12
+[2020.11.21-11.18.21:773][  0]LogStaticMesh: Building static mesh House_Window_13...
+[2020.11.21-11.18.21:782][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Window_13.House_Window_13
+[2020.11.21-11.18.21:783][  0]LogStaticMesh: Building static mesh House_Window_14...
+[2020.11.21-11.18.21:808][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Window_14.House_Window_14
+[2020.11.21-11.18.21:810][  0]LogStaticMesh: Building static mesh House_Window_Attic_01...
+[2020.11.21-11.18.21:814][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Window_Attic_01.House_Window_Attic_01
+[2020.11.21-11.18.21:815][  0]LogStaticMesh: Building static mesh House_Window_Attic_02...
+[2020.11.21-11.18.21:821][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Window_Attic_02.House_Window_Attic_02
+[2020.11.21-11.18.21:822][  0]LogStaticMesh: Building static mesh House_Window_Attic_Handle_01...
+[2020.11.21-11.18.21:830][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Window_Attic_Handle_01.House_Window_Attic_Handle_01
+[2020.11.21-11.18.21:831][  0]LogStaticMesh: Building static mesh House_Window_Attic_Handle_02...
+[2020.11.21-11.18.21:837][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Window_Attic_Handle_02.House_Window_Attic_Handle_02
+[2020.11.21-11.18.21:839][  0]LogStaticMesh: Building static mesh House_Window_Protector_01...
+[2020.11.21-11.18.21:896][  0]LogStaticMesh: Built static mesh [0.06s] /Game/OldBrickHouse/Fbx/House_Window_Protector_01.House_Window_Protector_01
+[2020.11.21-11.18.21:905][  0]LogStaticMesh: Building static mesh House_Window_Protector_05...
+[2020.11.21-11.18.21:960][  0]LogStaticMesh: Built static mesh [0.06s] /Game/OldBrickHouse/Fbx/House_Window_Protector_05.House_Window_Protector_05
+[2020.11.21-11.18.21:967][  0]LogStaticMesh: Building static mesh House_Window_Protector_06...
+[2020.11.21-11.18.22:019][  0]LogStaticMesh: Built static mesh [0.05s] /Game/OldBrickHouse/Fbx/House_Window_Protector_06.House_Window_Protector_06
+[2020.11.21-11.18.22:026][  0]LogStaticMesh: Building static mesh House_WindowProtector_02...
+[2020.11.21-11.18.22:050][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_WindowProtector_02.House_WindowProtector_02
+[2020.11.21-11.18.22:052][  0]LogStaticMesh: Building static mesh House_WindowProtector_03...
+[2020.11.21-11.18.22:075][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_WindowProtector_03.House_WindowProtector_03
+[2020.11.21-11.18.22:077][  0]LogStaticMesh: Building static mesh House_WindowProtector_04...
+[2020.11.21-11.18.22:102][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_WindowProtector_04.House_WindowProtector_04
+[2020.11.21-11.18.22:105][  0]LogStaticMesh: Building static mesh House_Windows_Frame_Door_Front...
+[2020.11.21-11.18.22:139][  0]LogStaticMesh: Built static mesh [0.03s] /Game/OldBrickHouse/Fbx/House_Windows_Frame_Door_Front.House_Windows_Frame_Door_Front
+[2020.11.21-11.18.22:142][  0]LogStaticMesh: Building static mesh House_Windows_Frame_Door_Front_Glass...
+[2020.11.21-11.18.22:147][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Windows_Frame_Door_Front_Glass.House_Windows_Frame_Door_Front_Glass
+[2020.11.21-11.18.22:148][  0]LogStaticMesh: Building static mesh House_Windows_Window_01...
+[2020.11.21-11.18.22:169][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Windows_Window_01.House_Windows_Window_01
+[2020.11.21-11.18.22:171][  0]LogStaticMesh: Building static mesh House_Windows_Window_01_Glass...
+[2020.11.21-11.18.22:177][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_01_Glass.House_Windows_Window_01_Glass
+[2020.11.21-11.18.22:177][  0]LogStaticMesh: Building static mesh House_Windows_Window_02...
+[2020.11.21-11.18.22:198][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Windows_Window_02.House_Windows_Window_02
+[2020.11.21-11.18.22:199][  0]LogStaticMesh: Building static mesh House_Windows_Window_02_Glass...
+[2020.11.21-11.18.22:205][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_02_Glass.House_Windows_Window_02_Glass
+[2020.11.21-11.18.22:205][  0]LogStaticMesh: Building static mesh House_Windows_Window_03...
+[2020.11.21-11.18.22:217][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_03.House_Windows_Window_03
+[2020.11.21-11.18.22:219][  0]LogStaticMesh: Building static mesh House_Windows_Window_03_Glass...
+[2020.11.21-11.18.22:223][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Windows_Window_03_Glass.House_Windows_Window_03_Glass
+[2020.11.21-11.18.22:223][  0]LogStaticMesh: Building static mesh House_Windows_Window_04...
+[2020.11.21-11.18.22:231][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_04.House_Windows_Window_04
+[2020.11.21-11.18.22:232][  0]LogStaticMesh: Building static mesh House_Windows_Window_04_Glass...
+[2020.11.21-11.18.22:234][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Windows_Window_04_Glass.House_Windows_Window_04_Glass
+[2020.11.21-11.18.22:235][  0]LogStaticMesh: Building static mesh House_Windows_Window_05...
+[2020.11.21-11.18.22:257][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Windows_Window_05.House_Windows_Window_05
+[2020.11.21-11.18.22:259][  0]LogStaticMesh: Building static mesh House_Windows_Window_05_Glass...
+[2020.11.21-11.18.22:267][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_05_Glass.House_Windows_Window_05_Glass
+[2020.11.21-11.18.22:267][  0]LogStaticMesh: Building static mesh House_Windows_Window_06...
+[2020.11.21-11.18.22:282][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Windows_Window_06.House_Windows_Window_06
+[2020.11.21-11.18.22:284][  0]LogStaticMesh: Building static mesh House_Windows_Window_06_Glass...
+[2020.11.21-11.18.22:290][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_06_Glass.House_Windows_Window_06_Glass
+[2020.11.21-11.18.22:290][  0]LogStaticMesh: Building static mesh House_Windows_Window_07...
+[2020.11.21-11.18.22:304][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Windows_Window_07.House_Windows_Window_07
+[2020.11.21-11.18.22:306][  0]LogStaticMesh: Building static mesh House_Windows_Window_07_Glass...
+[2020.11.21-11.18.22:312][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_07_Glass.House_Windows_Window_07_Glass
+[2020.11.21-11.18.22:313][  0]LogStaticMesh: Building static mesh House_Windows_Window_08...
+[2020.11.21-11.18.22:333][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Windows_Window_08.House_Windows_Window_08
+[2020.11.21-11.18.22:335][  0]LogStaticMesh: Building static mesh House_Windows_Window_08_Glass...
+[2020.11.21-11.18.22:343][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_08_Glass.House_Windows_Window_08_Glass
+[2020.11.21-11.18.22:344][  0]LogStaticMesh: Building static mesh House_Windows_Window_09...
+[2020.11.21-11.18.22:350][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_09.House_Windows_Window_09
+[2020.11.21-11.18.22:351][  0]LogStaticMesh: Building static mesh House_Windows_Window_09_Glass...
+[2020.11.21-11.18.22:354][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Windows_Window_09_Glass.House_Windows_Window_09_Glass
+[2020.11.21-11.18.22:354][  0]LogStaticMesh: Building static mesh House_Windows_Window_10_Glass...
+[2020.11.21-11.18.22:364][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_10_Glass.House_Windows_Window_10_Glass
+[2020.11.21-11.18.22:364][  0]LogStaticMesh: Building static mesh House_Windows_Window_11_Glass...
+[2020.11.21-11.18.22:371][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_11_Glass.House_Windows_Window_11_Glass
+[2020.11.21-11.18.22:372][  0]LogStaticMesh: Building static mesh House_Windows_Window_12_Glass...
+[2020.11.21-11.18.22:375][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Windows_Window_12_Glass.House_Windows_Window_12_Glass
+[2020.11.21-11.18.22:376][  0]LogStaticMesh: Building static mesh House_Windows_Window_13_Glass...
+[2020.11.21-11.18.22:380][  0]LogStaticMesh: Built static mesh [0.00s] /Game/OldBrickHouse/Fbx/House_Windows_Window_13_Glass.House_Windows_Window_13_Glass
+[2020.11.21-11.18.22:381][  0]LogStaticMesh: Building static mesh House_Windows_Window_14_Glass...
+[2020.11.21-11.18.22:388][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_14_Glass.House_Windows_Window_14_Glass
+[2020.11.21-11.18.22:389][  0]LogStaticMesh: Building static mesh House_Windows_Window_10...
+[2020.11.21-11.18.22:409][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Windows_Window_10.House_Windows_Window_10
+[2020.11.21-11.18.22:412][  0]LogStaticMesh: Building static mesh House_Windows_Window_11...
+[2020.11.21-11.18.22:431][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Windows_Window_11.House_Windows_Window_11
+[2020.11.21-11.18.22:434][  0]LogStaticMesh: Building static mesh House_Windows_Window_12...
+[2020.11.21-11.18.22:444][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_12.House_Windows_Window_12
+[2020.11.21-11.18.22:445][  0]LogStaticMesh: Building static mesh House_Windows_Window_13...
+[2020.11.21-11.18.22:454][  0]LogStaticMesh: Built static mesh [0.01s] /Game/OldBrickHouse/Fbx/House_Windows_Window_13.House_Windows_Window_13
+[2020.11.21-11.18.22:456][  0]LogStaticMesh: Building static mesh House_Windows_Window_14...
+[2020.11.21-11.18.22:480][  0]LogStaticMesh: Built static mesh [0.02s] /Game/OldBrickHouse/Fbx/House_Windows_Window_14.House_Windows_Window_14
+[2020.11.21-11.18.22:484][  0]LogMaterial: Display: Missing cached shader map for material M_WindowProtector, compiling. 
+[2020.11.21-11.18.22:569][  0]LogMaterial: Display: Missing cached shader map for material M_Glass_01, compiling. 
+[2020.11.21-11.18.22:606][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.11.21-11.18.22:606][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.11.21-11.18.22:606][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.11.21-11.18.22:606][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.11.21-11.18.22:606][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 4
+[2020.11.21-11.18.22:606][  0]LogMaterial: Display: Missing cached shader map for material M_Floor_04, compiling. 
+[2020.11.21-11.18.22:625][  0]LogMaterial: Display: Missing cached shader map for material M_Exterior_Addons, compiling. 
+[2020.11.21-11.18.22:644][  0]LogMaterial: Display: Missing cached shader map for material M_Windows, compiling. 
+[2020.11.21-11.18.22:664][  0]LogMaterial: Display: Missing cached shader map for material M_Trapdoor, compiling. 
+[2020.11.21-11.18.22:682][  0]LogMaterial: Display: Missing cached shader map for material M_Floor_03, compiling. 
+[2020.11.21-11.18.22:700][  0]LogMaterial: Display: Missing cached shader map for material M_Floor_02, compiling. 
+[2020.11.21-11.18.22:722][  0]LogMaterial: Display: Missing cached shader map for material M_Floor_01, compiling. 
+[2020.11.21-11.18.22:744][  0]LogMaterial: Display: Missing cached shader map for material M_Interior_01, compiling. 
+[2020.11.21-11.18.22:764][  0]LogMaterial: Display: Missing cached shader map for material M_Curtains, compiling. 
+[2020.11.21-11.18.22:792][  0]LogMaterial: Display: Missing cached shader map for material M_Glass_02, compiling. 
+[2020.11.21-11.18.22:811][  0]LogMaterial: Display: Missing cached shader map for material M_FrontDoor, compiling. 
+[2020.11.21-11.18.22:831][  0]LogMaterial: Display: Missing cached shader map for material M_Trims_01, compiling. 
+[2020.11.21-11.18.22:852][  0]LogMaterial: Display: Missing cached shader map for material M_Roof_01, compiling. 
+[2020.11.21-11.18.22:893][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.21-11.18.22:893][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DEA6E4C800), frame # 0
+[2020.11.21-11.18.22:894][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DE9C39CB80), frame # 0
+[2020.11.21-11.18.22:914][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.21-11.18.22:931][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.11.21-11.18.22:932][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.21-11.18.22:932][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
+[2020.11.21-11.18.22:932][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.742
+[2020.11.21-11.18.22:934][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.778
+[2020.11.21-11.18.23:140][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.21-11.18.23:152][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.21-11.18.23:163][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.21-11.18.23:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.21-11.18.23:189][  0]LogCollectionManager: Loaded 0 collections in 0.003804 seconds
+[2020.11.21-11.18.23:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/Collections/' took 0.00s
+[2020.11.21-11.18.23:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/Developers/mescr/Collections/' took 0.00s
+[2020.11.21-11.18.23:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/Collections/' took 0.00s
+[2020.11.21-11.18.23:218][  0]LogContentBrowser: Native class hierarchy populated in 0.0215 seconds. Added 3427 classes and 821 folders.
+[2020.11.21-11.18.23:222][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.21-11.18.23:328][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.21-11.18.23:330][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2020.11.21-11.18.23:435][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.21-11.18.23:437][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.21-11.18.23:443][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.21-11.18.23:548][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2020.11.21-11.18.23:705][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.21-11.18.23:705][  0]LogLoad: (Engine Initialization) Total time: 14.55 seconds
+[2020.11.21-11.18.23:705][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.21-11.18.23:785][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.21-11.18.23:839][  0]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.21-11.18.23:870][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.21-11.18.23:913][  1]LogAssetRegistry: Asset discovery search completed in 8.7211 seconds
+[2020.11.21-11.18.23:923][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2020.11.21-11.18.26:717][123]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 336
+[2020.11.21-11.18.27:667][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 326
+[2020.11.21-11.18.27:781][183]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 316
+[2020.11.21-11.18.28:076][200]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 306
+[2020.11.21-11.18.28:914][250]LogSlate: Window 'Message Log' being destroyed
+[2020.11.21-11.18.28:919][250]LogSlate: Window 'Message Log' being destroyed
+[2020.11.21-11.18.33:915][550]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 296
+[2020.11.21-11.18.33:932][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 286
+[2020.11.21-11.18.34:376][577]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 276
+[2020.11.21-11.18.35:778][659]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 266
+[2020.11.21-11.18.39:162][862]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 256
+[2020.11.21-11.18.40:535][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 246
+[2020.11.21-11.18.41:369][994]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 236
+[2020.11.21-11.18.42:231][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 226
+[2020.11.21-11.18.45:944][268]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 216
+[2020.11.21-11.18.46:316][290]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 206
+[2020.11.21-11.18.47:408][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 196
+[2020.11.21-11.18.48:737][434]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 186
+[2020.11.21-11.18.52:449][657]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 176
+[2020.11.21-11.18.53:265][706]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 166
+[2020.11.21-11.18.53:474][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 156
+[2020.11.21-11.18.56:341][889]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 146
+[2020.11.21-11.18.57:636][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 136
+[2020.11.21-11.18.59:614][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 126
+[2020.11.21-11.19.00:630][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 116
+[2020.11.21-11.19.02:625][265]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 106
+[2020.11.21-11.19.04:387][371]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 96
+[2020.11.21-11.19.05:362][429]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2020.11.21-11.19.07:839][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2020.11.21-11.19.08:040][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2020.11.21-11.19.11:347][787]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2020.11.21-11.19.11:665][806]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.11.21-11.19.13:922][941]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2020.11.21-11.19.15:517][ 37]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.11.21-11.19.16:563][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.11.21-11.19.19:043][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.11.21-11.19.19:713][288]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.11.21-11.19.20:087][310]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.11.21-11.19.20:363][327]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.11.21-11.19.21:098][371]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.11.21-11.19.21:332][385]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.21-11.19.21:454][392]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.21-11.19.47:399][945]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.21-11.19.47:446][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.21-11.19.47:566][945]LogSavePackage: Moving '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/FirstPersonExampleMapB0B4E9764C176924655B93871D6069C6.tmp' to '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.21-11.19.47:618][945]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2020.11.21-11.19.47:618][945]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.21-11.20.09:801][ 54]LogStaticMesh: Building static mesh Armchair_01_Armchair_01...
+[2020.11.21-11.20.09:855][ 54]LogStaticMesh: Built static mesh [0.05s] /Game/OldBrickHouse/Fbx/Armchair_01_Armchair_01.Armchair_01_Armchair_01
+[2020.11.21-11.20.09:867][ 54]LogMaterial: Display: Missing cached shader map for material M_Furniture_Armchairs, compiling. 
+[2020.11.21-11.20.09:904][ 54]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.11.21-11.20.09:904][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.11.21-11.20.09:904][ 54]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.11.21-11.20.09:904][ 54]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.11.21-11.20.09:966][ 58]LogActorFactory: Actor Factory created Armchair_01_Armchair_01
+[2020.11.21-11.20.11:314][138]LogActorFactory: Actor Factory created Armchair_01_Armchair_01
+[2020.11.21-11.20.13:361][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.21-11.20.13:467][254]LogSavePackage: Moving '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Saved/FirstPersonExampleMapC788DE5847B2A14F9A169986DDF9D187.tmp' to '../../../../../../Users/mescr/OneDrive/Documents/GitHub/unrealhorror/UnrealHorrorGame/NewHorroGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.21-11.20.13:519][254]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2020.11.21-11.20.13:519][254]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.21-11.20.14:902][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
