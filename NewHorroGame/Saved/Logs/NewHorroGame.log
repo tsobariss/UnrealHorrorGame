@@ -646,3 +646,386 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.21-10.23.22:412][  0]LogSlate: Took 0.038291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.11.21-10.23.39:046][261]LogAssetRegistry: Asset discovery search completed in 55.2640 seconds
 [2020.11.21-10.23.39:051][261]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.11.21-10.33.51:030][ 93]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.21-10.33.51:030][ 93]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.21-10.33.53:086][261]LogSlate: Window 'Merge Actors' being destroyed
+[2020.11.21-10.33.53:095][261]LogSlate: Window 'Merge Actors' being destroyed
+[2020.11.21-10.59.53:629][983]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.21-11.00.14:590][255]Cmd: SELECT NONE
+[2020.11.21-11.00.17:396][432]LogActorFactory: Actor Factory created House_Windows_Window_14_Glass
+[2020.11.21-11.00.17:402][432]LogActorFactory: Actor Factory created House_Attic_Roof
+[2020.11.21-11.00.17:402][432]LogActorFactory: Actor Factory created House_Attic_Roof_Structure
+[2020.11.21-11.00.17:403][432]LogActorFactory: Actor Factory created House_Backdoor
+[2020.11.21-11.00.17:403][432]LogActorFactory: Actor Factory created House_Backdoor_Frame
+[2020.11.21-11.00.17:403][432]LogActorFactory: Actor Factory created House_Backdoor_Handle
+[2020.11.21-11.00.17:404][432]LogActorFactory: Actor Factory created House_Brick_Decor
+[2020.11.21-11.00.17:404][432]LogActorFactory: Actor Factory created House_ceiling
+[2020.11.21-11.00.17:405][432]LogActorFactory: Actor Factory created House_Ceiling_02
+[2020.11.21-11.00.17:405][432]LogActorFactory: Actor Factory created House_COL_Foundation
+[2020.11.21-11.00.17:406][432]LogActorFactory: Actor Factory created House_Crown_Molding_Ceiling_01
+[2020.11.21-11.00.17:406][432]LogActorFactory: Actor Factory created House_Crown_Molding_Ceiling_02
+[2020.11.21-11.00.17:406][432]LogActorFactory: Actor Factory created House_Curtains_002
+[2020.11.21-11.00.17:407][432]LogActorFactory: Actor Factory created House_Curtains_003
+[2020.11.21-11.00.17:407][432]LogActorFactory: Actor Factory created House_Curtains_004
+[2020.11.21-11.00.17:408][432]LogActorFactory: Actor Factory created House_Curtains_005
+[2020.11.21-11.00.17:408][432]LogActorFactory: Actor Factory created House_Curtains_006
+[2020.11.21-11.00.17:409][432]LogActorFactory: Actor Factory created House_Curtains_007
+[2020.11.21-11.00.17:409][432]LogActorFactory: Actor Factory created House_Curtains_008
+[2020.11.21-11.00.17:409][432]LogActorFactory: Actor Factory created House_Curtains_009
+[2020.11.21-11.00.17:410][432]LogActorFactory: Actor Factory created House_Curtains_01
+[2020.11.21-11.00.17:410][432]LogActorFactory: Actor Factory created House_Curtains_010
+[2020.11.21-11.00.17:411][432]LogActorFactory: Actor Factory created House_Curtains_011
+[2020.11.21-11.00.17:411][432]LogActorFactory: Actor Factory created House_Door_Front
+[2020.11.21-11.00.17:411][432]LogActorFactory: Actor Factory created House_Door_Front_Handles
+[2020.11.21-11.00.17:412][432]LogActorFactory: Actor Factory created House_Door_Interior
+[2020.11.21-11.00.17:412][432]LogActorFactory: Actor Factory created House_Door_Interior_02
+[2020.11.21-11.00.17:412][432]LogActorFactory: Actor Factory created House_Door_Interior_02_Handle
+[2020.11.21-11.00.17:413][432]LogActorFactory: Actor Factory created House_Door_Interior_03
+[2020.11.21-11.00.17:413][432]LogActorFactory: Actor Factory created House_Door_Interior_03_Handle
+[2020.11.21-11.00.17:413][432]LogActorFactory: Actor Factory created House_Door_Interior_04
+[2020.11.21-11.00.17:414][432]LogActorFactory: Actor Factory created House_Door_Interior_04_Handle
+[2020.11.21-11.00.17:414][432]LogActorFactory: Actor Factory created House_Door_Interior_05
+[2020.11.21-11.00.17:415][432]LogActorFactory: Actor Factory created House_Door_Interior_05_Handle
+[2020.11.21-11.00.17:415][432]LogActorFactory: Actor Factory created House_Door_Interior_06
+[2020.11.21-11.00.17:415][432]LogActorFactory: Actor Factory created House_Door_Interior_06_Handle
+[2020.11.21-11.00.17:416][432]LogActorFactory: Actor Factory created House_Door_Interior_07
+[2020.11.21-11.00.17:416][432]LogActorFactory: Actor Factory created House_Door_Interior_07_Handle
+[2020.11.21-11.00.17:417][432]LogActorFactory: Actor Factory created House_Door_Interior_Handle
+[2020.11.21-11.00.17:417][432]LogActorFactory: Actor Factory created House_Exterior_Main
+[2020.11.21-11.00.17:417][432]LogActorFactory: Actor Factory created House_Floor_01
+[2020.11.21-11.00.17:418][432]LogActorFactory: Actor Factory created House_Floor_02
+[2020.11.21-11.00.17:418][432]LogActorFactory: Actor Factory created House_Floor_03
+[2020.11.21-11.00.17:418][432]LogActorFactory: Actor Factory created House_Foundation
+[2020.11.21-11.00.17:419][432]LogActorFactory: Actor Factory created House_Frame_Door_Front
+[2020.11.21-11.00.17:419][432]LogActorFactory: Actor Factory created House_Frame_Door_Interior
+[2020.11.21-11.00.17:420][432]LogActorFactory: Actor Factory created House_Frame_Door_Interior_02
+[2020.11.21-11.00.17:420][432]LogActorFactory: Actor Factory created House_Frame_Door_Interior_03
+[2020.11.21-11.00.17:420][432]LogActorFactory: Actor Factory created House_Frame_Door_Interior_04
+[2020.11.21-11.00.17:421][432]LogActorFactory: Actor Factory created House_Frame_Door_Interior_05
+[2020.11.21-11.00.17:421][432]LogActorFactory: Actor Factory created House_Frame_Door_Interior_06
+[2020.11.21-11.00.17:421][432]LogActorFactory: Actor Factory created House_Frame_Door_Interior_07
+[2020.11.21-11.00.17:422][432]LogActorFactory: Actor Factory created House_Frame_Trapdoor
+[2020.11.21-11.00.17:422][432]LogActorFactory: Actor Factory created House_Frames_Window_Attic
+[2020.11.21-11.00.17:423][432]LogActorFactory: Actor Factory created House_Gutter_01
+[2020.11.21-11.00.17:423][432]LogActorFactory: Actor Factory created House_Gutter_02
+[2020.11.21-11.00.17:423][432]LogActorFactory: Actor Factory created House_Gutter_03
+[2020.11.21-11.00.17:424][432]LogActorFactory: Actor Factory created House_Gutter_04
+[2020.11.21-11.00.17:424][432]LogActorFactory: Actor Factory created House_Gutter_05
+[2020.11.21-11.00.17:424][432]LogActorFactory: Actor Factory created House_Hinges_Lower_01
+[2020.11.21-11.00.17:425][432]LogActorFactory: Actor Factory created House_Hinges_Lower_02
+[2020.11.21-11.00.17:425][432]LogActorFactory: Actor Factory created House_Hinges_Upper_01
+[2020.11.21-11.00.17:426][432]LogActorFactory: Actor Factory created House_Hinges_Upper_02
+[2020.11.21-11.00.17:426][432]LogActorFactory: Actor Factory created House_Ladder_Lower
+[2020.11.21-11.00.17:426][432]LogActorFactory: Actor Factory created House_Porch
+[2020.11.21-11.00.17:427][432]LogActorFactory: Actor Factory created House_roof
+[2020.11.21-11.00.17:427][432]LogActorFactory: Actor Factory created House_roof_01
+[2020.11.21-11.00.17:427][432]LogActorFactory: Actor Factory created House_roof_02
+[2020.11.21-11.00.17:428][432]LogActorFactory: Actor Factory created House_roof_03
+[2020.11.21-11.00.17:428][432]LogActorFactory: Actor Factory created House_Roof_Edge_Protector
+[2020.11.21-11.00.17:429][432]LogActorFactory: Actor Factory created House_Sills
+[2020.11.21-11.00.17:429][432]LogActorFactory: Actor Factory created House_Stair_Rods
+[2020.11.21-11.00.17:429][432]LogActorFactory: Actor Factory created House_Stairs_Frame
+[2020.11.21-11.00.17:430][432]LogActorFactory: Actor Factory created House_Stairs_Handrail
+[2020.11.21-11.00.17:430][432]LogActorFactory: Actor Factory created House_Stairs_Pillars
+[2020.11.21-11.00.17:431][432]LogActorFactory: Actor Factory created House_Stairs_Steps
+[2020.11.21-11.00.17:431][432]LogActorFactory: Actor Factory created House_Trapdoor
+[2020.11.21-11.00.17:431][432]LogActorFactory: Actor Factory created House_Trim_Floor_01
+[2020.11.21-11.00.17:432][432]LogActorFactory: Actor Factory created House_Trim_Floor_02
+[2020.11.21-11.00.17:432][432]LogActorFactory: Actor Factory created House_Walls_01
+[2020.11.21-11.00.17:433][432]LogActorFactory: Actor Factory created House_Walls_02
+[2020.11.21-11.00.17:433][432]LogActorFactory: Actor Factory created House_Window_10
+[2020.11.21-11.00.17:433][432]LogActorFactory: Actor Factory created House_Window_11
+[2020.11.21-11.00.17:434][432]LogActorFactory: Actor Factory created House_Window_12
+[2020.11.21-11.00.17:434][432]LogActorFactory: Actor Factory created House_Window_13
+[2020.11.21-11.00.17:435][432]LogActorFactory: Actor Factory created House_Window_14
+[2020.11.21-11.00.17:435][432]LogActorFactory: Actor Factory created House_Window_01
+[2020.11.21-11.00.17:435][432]LogActorFactory: Actor Factory created House_Window_02
+[2020.11.21-11.00.17:436][432]LogActorFactory: Actor Factory created House_Window_03
+[2020.11.21-11.00.17:436][432]LogActorFactory: Actor Factory created House_Window_04
+[2020.11.21-11.00.17:437][432]LogActorFactory: Actor Factory created House_Window_05
+[2020.11.21-11.00.17:437][432]LogActorFactory: Actor Factory created House_Window_06
+[2020.11.21-11.00.17:437][432]LogActorFactory: Actor Factory created House_Window_07
+[2020.11.21-11.00.17:438][432]LogActorFactory: Actor Factory created House_Window_08
+[2020.11.21-11.00.17:438][432]LogActorFactory: Actor Factory created House_Window_09
+[2020.11.21-11.00.17:439][432]LogActorFactory: Actor Factory created House_Window_Attic_01
+[2020.11.21-11.00.17:439][432]LogActorFactory: Actor Factory created House_Window_Attic_02
+[2020.11.21-11.00.17:439][432]LogActorFactory: Actor Factory created House_Window_Attic_Handle_01
+[2020.11.21-11.00.17:440][432]LogActorFactory: Actor Factory created House_Window_Attic_Handle_02
+[2020.11.21-11.00.17:440][432]LogActorFactory: Actor Factory created House_Window_Protector_01
+[2020.11.21-11.00.17:441][432]LogActorFactory: Actor Factory created House_Window_Protector_05
+[2020.11.21-11.00.17:441][432]LogActorFactory: Actor Factory created House_Window_Protector_06
+[2020.11.21-11.00.17:441][432]LogActorFactory: Actor Factory created House_WindowProtector_02
+[2020.11.21-11.00.17:442][432]LogActorFactory: Actor Factory created House_WindowProtector_03
+[2020.11.21-11.00.17:442][432]LogActorFactory: Actor Factory created House_WindowProtector_04
+[2020.11.21-11.00.17:443][432]LogActorFactory: Actor Factory created House_Windows_Frame_Door_Front
+[2020.11.21-11.00.17:443][432]LogActorFactory: Actor Factory created House_Windows_Frame_Door_Front_Glass
+[2020.11.21-11.00.17:443][432]LogActorFactory: Actor Factory created House_Windows_Window_10
+[2020.11.21-11.00.17:444][432]LogActorFactory: Actor Factory created House_Windows_Window_11
+[2020.11.21-11.00.17:444][432]LogActorFactory: Actor Factory created House_Windows_Window_12
+[2020.11.21-11.00.17:445][432]LogActorFactory: Actor Factory created House_Windows_Window_13
+[2020.11.21-11.00.17:445][432]LogActorFactory: Actor Factory created House_Windows_Window_14
+[2020.11.21-11.00.17:445][432]LogActorFactory: Actor Factory created House_Windows_Window_01
+[2020.11.21-11.00.17:446][432]LogActorFactory: Actor Factory created House_Windows_Window_01_Glass
+[2020.11.21-11.00.17:446][432]LogActorFactory: Actor Factory created House_Windows_Window_02
+[2020.11.21-11.00.17:447][432]LogActorFactory: Actor Factory created House_Windows_Window_02_Glass
+[2020.11.21-11.00.17:447][432]LogActorFactory: Actor Factory created House_Windows_Window_03
+[2020.11.21-11.00.17:447][432]LogActorFactory: Actor Factory created House_Windows_Window_03_Glass
+[2020.11.21-11.00.17:448][432]LogActorFactory: Actor Factory created House_Windows_Window_04
+[2020.11.21-11.00.17:448][432]LogActorFactory: Actor Factory created House_Windows_Window_04_Glass
+[2020.11.21-11.00.17:449][432]LogActorFactory: Actor Factory created House_Windows_Window_05
+[2020.11.21-11.00.17:449][432]LogActorFactory: Actor Factory created House_Windows_Window_05_Glass
+[2020.11.21-11.00.17:450][432]LogActorFactory: Actor Factory created House_Windows_Window_06
+[2020.11.21-11.00.17:450][432]LogActorFactory: Actor Factory created House_Windows_Window_06_Glass
+[2020.11.21-11.00.17:450][432]LogActorFactory: Actor Factory created House_Windows_Window_07
+[2020.11.21-11.00.17:451][432]LogActorFactory: Actor Factory created House_Windows_Window_07_Glass
+[2020.11.21-11.00.17:451][432]LogActorFactory: Actor Factory created House_Windows_Window_08
+[2020.11.21-11.00.17:452][432]LogActorFactory: Actor Factory created House_Windows_Window_08_Glass
+[2020.11.21-11.00.17:452][432]LogActorFactory: Actor Factory created House_Windows_Window_09
+[2020.11.21-11.00.17:453][432]LogActorFactory: Actor Factory created House_Windows_Window_09_Glass
+[2020.11.21-11.00.17:453][432]LogActorFactory: Actor Factory created House_Windows_Window_10_Glass
+[2020.11.21-11.00.17:454][432]LogActorFactory: Actor Factory created House_Windows_Window_11_Glass
+[2020.11.21-11.00.17:454][432]LogActorFactory: Actor Factory created House_Windows_Window_12_Glass
+[2020.11.21-11.00.17:454][432]LogActorFactory: Actor Factory created House_Windows_Window_13_Glass
+[2020.11.21-11.00.19:028][467]LogActorFactory: Actor Factory created House_Windows_Window_14_Glass
+[2020.11.21-11.00.19:506][467]LogActorFactory: Actor Factory created House_Attic_Roof
+[2020.11.21-11.00.19:536][467]LogActorFactory: Actor Factory created House_Attic_Roof_Structure
+[2020.11.21-11.00.19:555][467]LogActorFactory: Actor Factory created House_Backdoor
+[2020.11.21-11.00.19:573][467]LogActorFactory: Actor Factory created House_Backdoor_Frame
+[2020.11.21-11.00.19:592][467]LogActorFactory: Actor Factory created House_Backdoor_Handle
+[2020.11.21-11.00.19:612][467]LogActorFactory: Actor Factory created House_Brick_Decor
+[2020.11.21-11.00.19:635][467]LogActorFactory: Actor Factory created House_ceiling
+[2020.11.21-11.00.19:654][467]LogActorFactory: Actor Factory created House_Ceiling_02
+[2020.11.21-11.00.19:676][467]LogActorFactory: Actor Factory created House_COL_Foundation
+[2020.11.21-11.00.19:698][467]LogActorFactory: Actor Factory created House_Crown_Molding_Ceiling_01
+[2020.11.21-11.00.19:716][467]LogActorFactory: Actor Factory created House_Crown_Molding_Ceiling_02
+[2020.11.21-11.00.19:735][467]LogActorFactory: Actor Factory created House_Curtains_002
+[2020.11.21-11.00.19:754][467]LogActorFactory: Actor Factory created House_Curtains_003
+[2020.11.21-11.00.19:772][467]LogActorFactory: Actor Factory created House_Curtains_004
+[2020.11.21-11.00.19:792][467]LogActorFactory: Actor Factory created House_Curtains_005
+[2020.11.21-11.00.19:811][467]LogActorFactory: Actor Factory created House_Curtains_006
+[2020.11.21-11.00.19:836][467]LogActorFactory: Actor Factory created House_Curtains_007
+[2020.11.21-11.00.19:858][467]LogActorFactory: Actor Factory created House_Curtains_008
+[2020.11.21-11.00.19:881][467]LogActorFactory: Actor Factory created House_Curtains_009
+[2020.11.21-11.00.19:903][467]LogActorFactory: Actor Factory created House_Curtains_01
+[2020.11.21-11.00.19:925][467]LogActorFactory: Actor Factory created House_Curtains_010
+[2020.11.21-11.00.19:946][467]LogActorFactory: Actor Factory created House_Curtains_011
+[2020.11.21-11.00.19:966][467]LogActorFactory: Actor Factory created House_Door_Front
+[2020.11.21-11.00.19:984][467]LogActorFactory: Actor Factory created House_Door_Front_Handles
+[2020.11.21-11.00.20:003][467]LogActorFactory: Actor Factory created House_Door_Interior
+[2020.11.21-11.00.20:021][467]LogActorFactory: Actor Factory created House_Door_Interior_02
+[2020.11.21-11.00.20:044][467]LogActorFactory: Actor Factory created House_Door_Interior_02_Handle
+[2020.11.21-11.00.20:065][467]LogActorFactory: Actor Factory created House_Door_Interior_03
+[2020.11.21-11.00.20:084][467]LogActorFactory: Actor Factory created House_Door_Interior_03_Handle
+[2020.11.21-11.00.20:103][467]LogActorFactory: Actor Factory created House_Door_Interior_04
+[2020.11.21-11.00.20:124][467]LogActorFactory: Actor Factory created House_Door_Interior_04_Handle
+[2020.11.21-11.00.20:148][467]LogActorFactory: Actor Factory created House_Door_Interior_05
+[2020.11.21-11.00.20:172][467]LogActorFactory: Actor Factory created House_Door_Interior_05_Handle
+[2020.11.21-11.00.20:193][467]LogActorFactory: Actor Factory created House_Door_Interior_06
+[2020.11.21-11.00.20:214][467]LogActorFactory: Actor Factory created House_Door_Interior_06_Handle
+[2020.11.21-11.00.20:234][467]LogActorFactory: Actor Factory created House_Door_Interior_07
+[2020.11.21-11.00.20:252][467]LogActorFactory: Actor Factory created House_Door_Interior_07_Handle
+[2020.11.21-11.00.20:271][467]LogActorFactory: Actor Factory created House_Door_Interior_Handle
+[2020.11.21-11.00.20:292][467]LogActorFactory: Actor Factory created House_Exterior_Main
+[2020.11.21-11.00.20:318][467]LogActorFactory: Actor Factory created House_Floor_01
+[2020.11.21-11.00.20:343][467]LogActorFactory: Actor Factory created House_Floor_02
+[2020.11.21-11.00.20:366][467]LogActorFactory: Actor Factory created House_Floor_03
+[2020.11.21-11.00.20:388][467]LogActorFactory: Actor Factory created House_Foundation
+[2020.11.21-11.00.20:410][467]LogActorFactory: Actor Factory created House_Frame_Door_Front
+[2020.11.21-11.00.20:433][467]LogActorFactory: Actor Factory created House_Frame_Door_Interior
+[2020.11.21-11.00.20:454][467]LogActorFactory: Actor Factory created House_Frame_Door_Interior_02
+[2020.11.21-11.00.20:475][467]LogActorFactory: Actor Factory created House_Frame_Door_Interior_03
+[2020.11.21-11.00.20:494][467]LogActorFactory: Actor Factory created House_Frame_Door_Interior_04
+[2020.11.21-11.00.20:511][467]LogActorFactory: Actor Factory created House_Frame_Door_Interior_05
+[2020.11.21-11.00.20:530][467]LogActorFactory: Actor Factory created House_Frame_Door_Interior_06
+[2020.11.21-11.00.20:551][467]LogActorFactory: Actor Factory created House_Frame_Door_Interior_07
+[2020.11.21-11.00.20:571][467]LogActorFactory: Actor Factory created House_Frame_Trapdoor
+[2020.11.21-11.00.20:594][467]LogActorFactory: Actor Factory created House_Frames_Window_Attic
+[2020.11.21-11.00.20:616][467]LogActorFactory: Actor Factory created House_Gutter_01
+[2020.11.21-11.00.20:635][467]LogActorFactory: Actor Factory created House_Gutter_02
+[2020.11.21-11.00.20:654][467]LogActorFactory: Actor Factory created House_Gutter_03
+[2020.11.21-11.00.20:672][467]LogActorFactory: Actor Factory created House_Gutter_04
+[2020.11.21-11.00.20:692][467]LogActorFactory: Actor Factory created House_Gutter_05
+[2020.11.21-11.00.20:711][467]LogActorFactory: Actor Factory created House_Hinges_Lower_01
+[2020.11.21-11.00.20:730][467]LogActorFactory: Actor Factory created House_Hinges_Lower_02
+[2020.11.21-11.00.20:750][467]LogActorFactory: Actor Factory created House_Hinges_Upper_01
+[2020.11.21-11.00.20:772][467]LogActorFactory: Actor Factory created House_Hinges_Upper_02
+[2020.11.21-11.00.20:792][467]LogActorFactory: Actor Factory created House_Ladder_Lower
+[2020.11.21-11.00.20:812][467]LogActorFactory: Actor Factory created House_Porch
+[2020.11.21-11.00.20:834][467]LogActorFactory: Actor Factory created House_roof
+[2020.11.21-11.00.20:856][467]LogActorFactory: Actor Factory created House_roof_01
+[2020.11.21-11.00.20:878][467]LogActorFactory: Actor Factory created House_roof_02
+[2020.11.21-11.00.20:900][467]LogActorFactory: Actor Factory created House_roof_03
+[2020.11.21-11.00.20:919][467]LogActorFactory: Actor Factory created House_Roof_Edge_Protector
+[2020.11.21-11.00.20:942][467]LogActorFactory: Actor Factory created House_Sills
+[2020.11.21-11.00.20:965][467]LogActorFactory: Actor Factory created House_Stair_Rods
+[2020.11.21-11.00.20:985][467]LogActorFactory: Actor Factory created House_Stairs_Frame
+[2020.11.21-11.00.21:003][467]LogActorFactory: Actor Factory created House_Stairs_Handrail
+[2020.11.21-11.00.21:025][467]LogActorFactory: Actor Factory created House_Stairs_Pillars
+[2020.11.21-11.00.21:048][467]LogActorFactory: Actor Factory created House_Stairs_Steps
+[2020.11.21-11.00.21:071][467]LogActorFactory: Actor Factory created House_Trapdoor
+[2020.11.21-11.00.21:093][467]LogActorFactory: Actor Factory created House_Trim_Floor_01
+[2020.11.21-11.00.21:116][467]LogActorFactory: Actor Factory created House_Trim_Floor_02
+[2020.11.21-11.00.21:137][467]LogActorFactory: Actor Factory created House_Walls_01
+[2020.11.21-11.00.21:158][467]LogActorFactory: Actor Factory created House_Walls_02
+[2020.11.21-11.00.21:180][467]LogActorFactory: Actor Factory created House_Window_10
+[2020.11.21-11.00.21:199][467]LogActorFactory: Actor Factory created House_Window_11
+[2020.11.21-11.00.21:221][467]LogActorFactory: Actor Factory created House_Window_12
+[2020.11.21-11.00.21:244][467]LogActorFactory: Actor Factory created House_Window_13
+[2020.11.21-11.00.21:263][467]LogActorFactory: Actor Factory created House_Window_14
+[2020.11.21-11.00.21:288][467]LogActorFactory: Actor Factory created House_Window_01
+[2020.11.21-11.00.21:314][467]LogActorFactory: Actor Factory created House_Window_02
+[2020.11.21-11.00.21:336][467]LogActorFactory: Actor Factory created House_Window_03
+[2020.11.21-11.00.21:358][467]LogActorFactory: Actor Factory created House_Window_04
+[2020.11.21-11.00.21:382][467]LogActorFactory: Actor Factory created House_Window_05
+[2020.11.21-11.00.21:407][467]LogActorFactory: Actor Factory created House_Window_06
+[2020.11.21-11.00.21:429][467]LogActorFactory: Actor Factory created House_Window_07
+[2020.11.21-11.00.21:450][467]LogActorFactory: Actor Factory created House_Window_08
+[2020.11.21-11.00.21:474][467]LogActorFactory: Actor Factory created House_Window_09
+[2020.11.21-11.00.21:496][467]LogActorFactory: Actor Factory created House_Window_Attic_01
+[2020.11.21-11.00.21:517][467]LogActorFactory: Actor Factory created House_Window_Attic_02
+[2020.11.21-11.00.21:536][467]LogActorFactory: Actor Factory created House_Window_Attic_Handle_01
+[2020.11.21-11.00.21:556][467]LogActorFactory: Actor Factory created House_Window_Attic_Handle_02
+[2020.11.21-11.00.21:577][467]LogActorFactory: Actor Factory created House_Window_Protector_01
+[2020.11.21-11.00.21:595][467]LogActorFactory: Actor Factory created House_Window_Protector_05
+[2020.11.21-11.00.21:616][467]LogActorFactory: Actor Factory created House_Window_Protector_06
+[2020.11.21-11.00.21:639][467]LogActorFactory: Actor Factory created House_WindowProtector_02
+[2020.11.21-11.00.21:662][467]LogActorFactory: Actor Factory created House_WindowProtector_03
+[2020.11.21-11.00.21:683][467]LogActorFactory: Actor Factory created House_WindowProtector_04
+[2020.11.21-11.00.21:702][467]LogActorFactory: Actor Factory created House_Windows_Frame_Door_Front
+[2020.11.21-11.00.21:722][467]LogActorFactory: Actor Factory created House_Windows_Frame_Door_Front_Glass
+[2020.11.21-11.00.21:743][467]LogActorFactory: Actor Factory created House_Windows_Window_10
+[2020.11.21-11.00.21:762][467]LogActorFactory: Actor Factory created House_Windows_Window_11
+[2020.11.21-11.00.21:783][467]LogActorFactory: Actor Factory created House_Windows_Window_12
+[2020.11.21-11.00.21:803][467]LogActorFactory: Actor Factory created House_Windows_Window_13
+[2020.11.21-11.00.21:823][467]LogActorFactory: Actor Factory created House_Windows_Window_14
+[2020.11.21-11.00.21:844][467]LogActorFactory: Actor Factory created House_Windows_Window_01
+[2020.11.21-11.00.21:865][467]LogActorFactory: Actor Factory created House_Windows_Window_01_Glass
+[2020.11.21-11.00.21:888][467]LogActorFactory: Actor Factory created House_Windows_Window_02
+[2020.11.21-11.00.21:909][467]LogActorFactory: Actor Factory created House_Windows_Window_02_Glass
+[2020.11.21-11.00.21:931][467]LogActorFactory: Actor Factory created House_Windows_Window_03
+[2020.11.21-11.00.21:949][467]LogActorFactory: Actor Factory created House_Windows_Window_03_Glass
+[2020.11.21-11.00.21:967][467]LogActorFactory: Actor Factory created House_Windows_Window_04
+[2020.11.21-11.00.21:986][467]LogActorFactory: Actor Factory created House_Windows_Window_04_Glass
+[2020.11.21-11.00.22:005][467]LogActorFactory: Actor Factory created House_Windows_Window_05
+[2020.11.21-11.00.22:024][467]LogActorFactory: Actor Factory created House_Windows_Window_05_Glass
+[2020.11.21-11.00.22:041][467]LogActorFactory: Actor Factory created House_Windows_Window_06
+[2020.11.21-11.00.22:060][467]LogActorFactory: Actor Factory created House_Windows_Window_06_Glass
+[2020.11.21-11.00.22:079][467]LogActorFactory: Actor Factory created House_Windows_Window_07
+[2020.11.21-11.00.22:101][467]LogActorFactory: Actor Factory created House_Windows_Window_07_Glass
+[2020.11.21-11.00.22:124][467]LogActorFactory: Actor Factory created House_Windows_Window_08
+[2020.11.21-11.00.22:145][467]LogActorFactory: Actor Factory created House_Windows_Window_08_Glass
+[2020.11.21-11.00.22:167][467]LogActorFactory: Actor Factory created House_Windows_Window_09
+[2020.11.21-11.00.22:186][467]LogActorFactory: Actor Factory created House_Windows_Window_09_Glass
+[2020.11.21-11.00.22:205][467]LogActorFactory: Actor Factory created House_Windows_Window_10_Glass
+[2020.11.21-11.00.22:224][467]LogActorFactory: Actor Factory created House_Windows_Window_11_Glass
+[2020.11.21-11.00.22:243][467]LogActorFactory: Actor Factory created House_Windows_Window_12_Glass
+[2020.11.21-11.00.22:262][467]LogActorFactory: Actor Factory created House_Windows_Window_13_Glass
+[2020.11.21-11.00.39:831][956]MapCheck: New page: Map Check
+[2020.11.21-11.00.40:064][956]LightingResults: New page: Lighting Build - 21 Νοε 2020, 3:00:39 μ.μ.
+[2020.11.21-11.00.40:338][956]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.21-11.00.40:701][956]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.21-11.00.40:724][956]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.21-11.00.42:261][956]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.21-11.00.42:262][956]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8728
+[2020.11.21-11.00.48:653][956]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.21-11.00.48:653][956]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.21-11.00.48:653][956]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.21-11.00.48:654][956]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.21-11.00.48:654][956]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.21-11.00.50:431][956]LogEditorBuildUtils: Build time 0:10
+[2020.11.21-11.00.50:502][957]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_02, compiling. 
+[2020.11.21-11.00.50:583][957]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_02, compiling. 
+[2020.11.21-11.00.50:591][957]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.11.21-11.00.50:591][957]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.11.21-11.00.50:591][957]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.11.21-11.00.50:591][957]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.11.21-11.00.50:636][958]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_05, compiling. 
+[2020.11.21-11.00.50:640][958]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_05, compiling. 
+[2020.11.21-11.00.50:643][958]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_03, compiling. 
+[2020.11.21-11.00.50:646][958]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_03, compiling. 
+[2020.11.21-11.00.50:704][959]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_06, compiling. 
+[2020.11.21-11.00.50:709][959]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_06, compiling. 
+[2020.11.21-11.00.50:757][960]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_01, compiling. 
+[2020.11.21-11.00.50:761][960]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_01, compiling. 
+[2020.11.21-11.00.50:766][960]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_04, compiling. 
+[2020.11.21-11.00.50:770][960]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_04, compiling. 
+[2020.11.21-11.00.50:815][960]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.11.21-11.00.50:815][960]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.11.21-11.00.50:815][960]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.11.21-11.00.50:815][960]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.11.21-11.00.50:823][961]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_07, compiling. 
+[2020.11.21-11.00.50:828][961]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_07, compiling. 
+[2020.11.21-11.00.50:892][962]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_01, compiling. 
+[2020.11.21-11.00.50:896][962]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_01, compiling. 
+[2020.11.21-11.00.50:960][963]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass_01, compiling. 
+[2020.11.21-11.00.50:964][963]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass_01, compiling. 
+[2020.11.21-11.00.50:968][963]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Roof_01, compiling. 
+[2020.11.21-11.00.50:972][963]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Roof_01, compiling. 
+[2020.11.21-11.00.50:998][964]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Trims_01, compiling. 
+[2020.11.21-11.00.51:003][964]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Trims_01, compiling. 
+[2020.11.21-11.00.51:007][964]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_FrontDoor, compiling. 
+[2020.11.21-11.00.51:013][964]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_FrontDoor, compiling. 
+[2020.11.21-11.00.51:035][965]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass_02, compiling. 
+[2020.11.21-11.00.51:040][965]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass_02, compiling. 
+[2020.11.21-11.00.51:066][966]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Curtains, compiling. 
+[2020.11.21-11.00.51:070][966]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Curtains, compiling. 
+[2020.11.21-11.00.51:096][967]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Interior_01, compiling. 
+[2020.11.21-11.00.51:099][967]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Interior_01, compiling. 
+[2020.11.21-11.00.51:103][967]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_02, compiling. 
+[2020.11.21-11.00.51:107][967]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_02, compiling. 
+[2020.11.21-11.00.51:131][968]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_01, compiling. 
+[2020.11.21-11.00.51:134][968]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_01, compiling. 
+[2020.11.21-11.00.51:137][968]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_03, compiling. 
+[2020.11.21-11.00.51:141][968]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_03, compiling. 
+[2020.11.21-11.00.51:167][969]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Trapdoor, compiling. 
+[2020.11.21-11.00.51:170][969]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Trapdoor, compiling. 
+[2020.11.21-11.00.51:174][969]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Windows, compiling. 
+[2020.11.21-11.00.51:179][969]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Windows, compiling. 
+[2020.11.21-11.00.51:203][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Exterior_Addons, compiling. 
+[2020.11.21-11.00.51:207][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Exterior_Addons, compiling. 
+[2020.11.21-11.00.51:211][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_04, compiling. 
+[2020.11.21-11.00.51:216][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_04, compiling. 
+[2020.11.21-11.00.51:240][971]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_WindowProtector, compiling. 
+[2020.11.21-11.00.51:244][971]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_WindowProtector, compiling. 
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 76
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 66
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 49
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 42
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 31
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.11.21-11.01.00:540][972]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.11.21-11.01.00:543][972]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.21-11.01.01:576][993]LogUObjectHash: Compacting FUObjectHashTables data took  10.69ms
+[2020.11.21-11.01.13:550][566]LightingResults: Warning: House_Exterior_Main Object has overlapping UVs.
+[2020.11.21-11.01.13:550][566]LightingResults: House_Exterior_Main Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.21-11.01.32:247][702]LightingResults: Warning: House_Walls_02 Object has overlapping UVs.
+[2020.11.21-11.01.32:247][702]LightingResults: House_Walls_02 Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.21-11.01.32:628][722]LightingResults: Warning: House_Exterior_Main Object has overlapping UVs.
+[2020.11.21-11.01.32:628][722]LightingResults: House_Exterior_Main Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.21-11.01.32:798][731]LightingResults: Warning: House_Crown_Molding_Ceiling_02 Object has overlapping UVs.
+[2020.11.21-11.01.32:798][731]LightingResults: House_Crown_Molding_Ceiling_02 Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.21-11.01.33:173][750]LightingResults: Warning: House_Walls_02 Object has overlapping UVs.
+[2020.11.21-11.01.33:173][750]LightingResults: House_Walls_02 Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.21-11.01.33:429][763]LightingResults: Warning: House_Roof_Edge_Protector Object has wrapping UVs.
+[2020.11.21-11.01.33:429][763]LightingResults: Warning: House_Roof_Edge_Protector Object has overlapping UVs.
+[2020.11.21-11.01.33:429][763]LightingResults: House_Roof_Edge_Protector Lightmap UV are overlapping by 11.9%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.21-11.01.34:102][799]Job is a success!
+[2020.11.21-11.01.59:160][ 73]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.21-11.02.00:872][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.21-11.02.01:772][170]LogSavePackage: Moving '../../../../unrealhorror-01/UnrealHorrorGame/NewHorroGame/Saved/FirstPersonExampleMap_Auto12788E57E421805454EF104B1A64393EB.tmp' to '../../../../unrealhorror-01/UnrealHorrorGame/NewHorroGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.11.21-11.02.01:832][170]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.973
+[2020.11.21-11.02.01:832][170]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.973
