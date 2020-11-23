@@ -646,3 +646,173 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.23-07.13.00:170][  0]LogAssetRegistry: Asset discovery search completed in 24.1174 seconds
 [2020.11.23-07.13.00:173][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2020.11.23-07.13.00:187][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.23-07.14.50:613][505]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.23-07.14.50:613][505]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.23-07.34.22:886][437]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.23-07.34.22:886][437]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.23-12.55.18:610][199]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (House_Attic_Roof)
+[2020.11.23-12.55.21:474][515]MapCheck: New page: Map Check
+[2020.11.23-12.55.21:557][515]LightingResults: New page: Lighting Build - 23 Νοε 2020, 4:55:21 μ.μ.
+[2020.11.23-12.55.21:841][515]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.23-12.55.22:126][515]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.23-12.55.22:161][515]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.23-12.55.23:206][515]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.23-12.55.23:206][515]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8652
+[2020.11.23-12.55.29:792][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.23-12.55.29:792][515]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.23-12.55.29:792][515]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.23-12.55.29:792][515]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.23-12.55.29:792][515]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.23-12.55.30:033][515]LogEditorBuildUtils: Build time 0:08
+[2020.11.23-12.55.30:114][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Armchair, compiling. 
+[2020.11.23-12.55.30:132][516]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.11.23-12.55.30:132][516]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.11.23-12.55.30:132][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Armchair, compiling. 
+[2020.11.23-12.55.33:949][517]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.11.23-12.55.33:949][517]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.11.23-12.55.34:369][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.11.23-12.55.41:744][542]LightingResults: Warning: House_Walls_02 Object has overlapping UVs.
+[2020.11.23-12.55.41:744][542]LightingResults: House_Walls_02 Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.23-12.55.41:744][542]LightingResults: Warning: House_Exterior_Main Object has overlapping UVs.
+[2020.11.23-12.55.41:744][542]LightingResults: House_Exterior_Main Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.23-12.55.44:153][549]LightingResults: Warning: House_Walls_02 Object has overlapping UVs.
+[2020.11.23-12.55.44:153][549]LightingResults: House_Walls_02 Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.23-12.55.58:764][591]LightingResults: Warning: House_Roof_Edge_Protector Object has wrapping UVs.
+[2020.11.23-12.55.58:764][591]LightingResults: Warning: House_Roof_Edge_Protector Object has overlapping UVs.
+[2020.11.23-12.55.58:764][591]LightingResults: House_Roof_Edge_Protector Lightmap UV are overlapping by 11.9%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.23-12.55.59:089][592]LightingResults: Warning: House_Exterior_Main Object has overlapping UVs.
+[2020.11.23-12.55.59:089][592]LightingResults: House_Exterior_Main Lightmap UV are overlapping by 1.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.23-12.55.59:430][593]LightingResults: Warning: House_Crown_Molding_Ceiling_02 Object has overlapping UVs.
+[2020.11.23-12.55.59:430][593]LightingResults: House_Crown_Molding_Ceiling_02 Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.11.23-12.56.00:060][595]Job is a success!
+[2020.11.23-12.56.00:440][596]LogSlate: Took 0.000548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.23-12.56.00:756][596]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.067s
+[2020.11.23-12.56.00:756][596]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.23-12.56.00:766][596]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2020.11.23-12.56.00:766][596]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.23-12.56.00:766][596]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2020.11.23-12.56.00:766][596]LogVolumetricLightmapImport:          1: 5.9% covering 6.3% of volume
+[2020.11.23-12.56.00:766][596]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2020.11.23-12.56.00:766][596]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.23-12.56.00:766][596]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 68 bricks 	 100.0% (Persistent Level)
+[2020.11.23-12.56.03:265][596]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 128X64)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.11.23-12.56.03:266][596]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.11.23-12.56.03:466][596]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 64X64)
+[2020.11.23-12.56.03:466][596]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 32X32)
+[2020.11.23-12.56.03:698][596]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X512)
+[2020.11.23-12.56.03:698][596]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2020.11.23-12.56.03:698][596]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.11.23-12.56.03:698][596]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.11.23-12.56.03:699][596]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.11.23-12.56.03:699][596]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.11.23-12.56.03:699][596]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.11.23-12.56.03:699][596]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2020.11.23-12.56.03:864][596]Lightmass on DESKTOP-H6I8SR5: 28.6 sec total, 1.33 sec importing, 56 ms setup, 4.75 sec photons, 22.4 sec processing, 0 ms extra exporting [146/146 mappings]. Threads: 4:06 min total, 1:56 min processing.
+[2020.11.23-12.56.03:938][596]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 146 meshes in 11 LightmapResourceClusters (13.3 Meshes per cluster).
+[2020.11.23-12.56.04:026][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.23-12.56.04:071][596]LogStaticLightingSystem: Illumination: 42.2 sec (1.94 sec encoding lightmaps, 432 ms encoding shadowmaps)
+[2020.11.23-12.56.04:071][596]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 12 textures
+[2020.11.23-12.56.04:071][596]LogStaticLightingSystem: Shadowmap texture memory: 10.0 MB (10.0 MB streaming, 0.0 MB non-streaming), 10 textures
+[2020.11.23-12.56.04:833][596]DumpUnbuiltLightIteractions
+[2020.11.23-12.56.04:834][596]Lights with unbuilt interactions: 0
+[2020.11.23-12.56.04:834][596]
+[2020.11.23-12.56.04:834][596]Primitives with unbuilt interactions: 0
+[2020.11.23-12.56.05:125][596]LogSlate: Took 0.088031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.23-12.56.05:130][597]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.23-12.56.05:130][597]MapCheck: New page: FirstPersonExampleMap - 23 Νοε 2020, 4:56:05 μ.μ.
+[2020.11.23-12.56.05:297][597]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 166,491ms to complete.
+[2020.11.23-12.56.15:125][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.23-12.56.15:966][626]LogSavePackage: Moving '../../../../unrealhorror-01/UnrealHorrorGame/NewHorroGame/Saved/FirstPersonExampleMap_Auto16607A4AE4AAA968542949889650EF9E4.tmp' to '../../../../unrealhorror-01/UnrealHorrorGame/NewHorroGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.11.23-12.56.16:023][626]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.911
+[2020.11.23-12.56.16:023][626]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.911
+[2020.11.23-13.06.16:323][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.11.23-13.06.16:325][413]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-13.16.17:178][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.11.23-13.16.17:179][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.015
+[2020.11.23-13.26.17:454][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.11.23-13.26.17:455][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.012
+[2020.11.23-13.36.18:123][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.23-13.36.18:124][813]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-13.46.18:660][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.11.23-13.46.18:661][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-13.56.18:983][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.23-13.56.18:984][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.017
+[2020.11.23-14.06.19:672][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.23-14.06.19:673][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.012
+[2020.11.23-14.16.20:458][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.23-14.16.20:459][ 19]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-14.26.21:064][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.23-14.26.21:065][821]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-14.36.21:409][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.23-14.36.21:410][622]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.011
+[2020.11.23-14.46.22:179][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.23-14.46.22:180][424]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.012
+[2020.11.23-14.56.22:468][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.23-14.56.22:469][225]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-15.06.23:193][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.11.23-15.06.23:195][ 27]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-15.16.23:878][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.11.23-15.16.23:879][829]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-15.26.24:604][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-15.26.24:605][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-15.36.25:306][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.11.23-15.36.25:307][433]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-15.46.26:081][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-15.46.26:083][235]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-15.56.26:688][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-15.56.26:689][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-16.02.00:031][ 38]LogHttp: Warning: 000001EBD843EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B57BCF8-43F7-012A-4A0F-429456E331E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=dfe1dd604a28c6bff93eb9ab89d2ad5f%7C1c985454b66243e0829360b476cd3886%7Cae7eee13-2802-4407-bf18-6bb216981263&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.11.23-16.02.00:031][ 38]LogHttp: Warning: 000001EBD843EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.11.23-16.02.00:031][ 38]LogHttp: Warning: 000001EBD843EB00: libcurl info message cache 0 (Connection 104 seems to be dead!)
+[2020.11.23-16.02.00:031][ 38]LogHttp: Warning: 000001EBD843EB00: libcurl info message cache 1 (Closing connection 104)
+[2020.11.23-16.02.00:031][ 38]LogHttp: Warning: 000001EBD843EB00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.11.23-16.02.00:031][ 38]LogHttp: Warning: 000001EBD843EB00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.11.23-16.02.00:031][ 38]LogHttp: Warning: 000001EBD843EB00: libcurl info message cache 4 (Closing connection 105)
+[2020.11.23-16.02.00:031][ 38]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B57BCF8-43F7-012A-4A0F-429456E331E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=dfe1dd604a28c6bff93eb9ab89d2ad5f%7C1c985454b66243e0829360b476cd3886%7Cae7eee13-2802-4407-bf18-6bb216981263&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.11.23-16.06.27:291][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.23-16.06.27:292][838]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-16.16.27:790][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.23-16.16.27:791][639]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-16.26.28:752][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.11.23-16.26.28:753][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-16.36.29:336][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-16.36.29:336][242]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-16.46.29:868][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-16.46.29:869][ 43]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-16.56.30:352][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.23-16.56.30:354][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-17.06.30:766][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-17.06.30:768][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-17.16.31:581][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-17.16.31:582][446]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-17.26.32:540][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.23-17.26.32:541][457]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-17.36.33:215][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-17.36.33:216][259]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-17.46.33:727][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-17.46.33:728][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-17.56.34:403][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-17.56.34:404][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-18.06.34:822][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.11.23-18.06.34:823][663]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-18.16.35:534][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-18.16.35:535][465]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.013
+[2020.11.23-18.26.35:972][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.23-18.26.35:973][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.11.23-18.32.37:507][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
